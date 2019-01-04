@@ -61,7 +61,7 @@
 		<compiler.plugin.version>3.6.1</compiler.plugin.version>
 		<dependency.plugin.version>2.3</dependency.plugin.version>
 		<findbugs.plugin.version>3.0.3</findbugs.plugin.version>
-		<guava.plugin.version>21.0</guava.plugin.version>
+		<guava.plugin.version>24.1.1-jre</guava.plugin.version>
 		<jacoco.plugin.version>0.7.6.201602180812</jacoco.plugin.version>
 		<jar.plugin.version>2.6</jar.plugin.version>
 		<jxr.plugin.version>2.5</jxr.plugin.version>
